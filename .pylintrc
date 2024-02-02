@@ -1,0 +1,13 @@
+[MAIN]
+disable=missing-module-docstring,
+        missing-class-docstring,
+        missing-function-docstring,
+        protected-access,
+        consider-using-f-string,
+        unspecified-encoding
+[SIMILARITIES]
+min-similarity-lines=10
+[FORMAT]
+max-line-length=240
+[MESSAGES CONTROL]
+disable=W1203
